@@ -37,9 +37,9 @@ I'm a passionate **AI and Data Science enthusiast** with a knack for building **
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Atereoyinn&theme=radical)
 
-## 📈 Recent AI/Data Science Contributions
+<!--## 📈 Recent AI/Data Science Contributions-->
 <!-- github_activity_start -->
-*Updated with recent GitHub activity via GitHub Actions*
+<!--*Updated with recent GitHub activity via GitHub Actions*-->
 <!-- github_activity_end -->
 
 <!--## 🤗 Hugging Face Models -->
