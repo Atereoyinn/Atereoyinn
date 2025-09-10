@@ -42,14 +42,14 @@ I'm a passionate **AI and Data Science enthusiast** with a knack for building **
 *Updated with recent GitHub activity via GitHub Actions*
 <!-- github_activity_end -->
 
-## 🤗 Hugging Face Models
+<!--## 🤗 Hugging Face Models -->
 <!-- huggingface_models_start -->
-*Updated with latest Hugging Face models via GitHub Actions*
+<!--*Updated with latest Hugging Face models via GitHub Actions*
 <!-- huggingface_models_end -->
 
-## 🧠 Kaggle Contributions
+<!--## 🧠 Kaggle Contributions -->
 <!-- kaggle_contributions_start -->
-*Updated with latest Kaggle contributions via GitHub Actions*
+<!--*Updated with latest Kaggle contributions via GitHub Actions*
 <!-- kaggle_contributions_end -->
 
 ## 📈 AI/Data Science Contributions
