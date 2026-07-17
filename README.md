@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abiola Ayuba 
+# Hi, I'm Abiola Ayuba 
 
 I'm a passionate **AI and Data Science enthusiast** with a knack for building **AI applications and **web applications** . I love leveraging Python, Jupyter Notebooks, and JavaScript to create data-driven solutions and innovative projects.
 
